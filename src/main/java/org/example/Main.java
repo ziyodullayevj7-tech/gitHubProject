@@ -10,6 +10,6 @@ public class Main {
                 //wassap
             }
         }
-        System.out.println("My name is Jahongir");
+        System.out.println("My name is Jahongir");//
     }
 }
