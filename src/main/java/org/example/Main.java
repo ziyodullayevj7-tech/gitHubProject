@@ -10,7 +10,8 @@ public class Main {
                 //wassap
             }
         }
-        System.out.println("What the hell, man?");//
+        System.out.println("heyyy");//
         //okay
+    
     }
 }
